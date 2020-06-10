@@ -19,8 +19,9 @@ Jest to prosta aplikacja, pełniąca funkcję wyszukiwarki.  Służy do wyszukiw
 Nie wymaga rejestracji, jest skierowana do każdego, kto chciałby wyszukać jakiś kontekst. 
 
 # Instalacja
-Instalowanie z npm:
-#### npm install
+
+Należy włączyć terminal i wpisać <b>npm install</b>. Po zainstalowaniu wszystkich elementów należy wprowadzić komendę <b>npm start</b>, by zobaczyć aplikację w przeglądarce internetowej. 
+
   
 # Budowa aplikacji
 ### App.js:
